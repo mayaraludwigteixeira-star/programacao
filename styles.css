@@ -1,5 +1,10 @@
 .foto{
-  background-image: URL("");
+  background-image: URL("https://i.pinimg.com/originals/8f/66/80/8f6680d7226c1b42185cf090bc1609ae.gif");
   background-repeat: no-repeat;
   background-size:50%;
+  width:50px
+  height: 50px;
+}
+body{
+  background-color:blue;
 }
